@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/header.svg" alt="Harun Kiprop — Software Engineer at Hapre Software Labs. Building useful software." width="100%" /></p>
+<p align="center"><img src="assets/header-generated.png" alt="Harun Kiprop — Software Engineer at Hapre Software Labs. Building useful software." width="100%" /></p>
 
 <p align="center">
   <a href="https://dira-live-test.vercel.app"><b>Explore DIRA ↗</b></a>
